@@ -1,0 +1,1230 @@
+///////SUGAR DADDY////////
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f8/Poster_Sugar_Daddy_%282025%29.jpg/500px-Poster_Sugar_Daddy_%282025%29.jpg" group-title="Sugar Daddy (2025)", Episode 1
+https://ktvsaudara.tech/vod/series/sugardaddy/sugar%20dady%20s1.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f8/Poster_Sugar_Daddy_%282025%29.jpg/500px-Poster_Sugar_Daddy_%282025%29.jpg" group-title="Sugar Daddy (2025)", Episode 2
+https://ktvsaudara.tech/vod/series/sugardaddy/sugar%20dady%20s2.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f8/Poster_Sugar_Daddy_%282025%29.jpg/500px-Poster_Sugar_Daddy_%282025%29.jpg" group-title="Sugar Daddy (2025)", Episode 3
+https://ktvsaudara.tech/vod/series/sugardaddy/sugar%20dady%20s3.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f8/Poster_Sugar_Daddy_%282025%29.jpg/500px-Poster_Sugar_Daddy_%282025%29.jpg" group-title="Sugar Daddy (2025)", Episode 4
+https://ktvsaudara.tech/vod/series/sugardaddy/sugar%20daddy%20ep%2004.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f8/Poster_Sugar_Daddy_%282025%29.jpg/500px-Poster_Sugar_Daddy_%282025%29.jpg" group-title="Sugar Daddy (2025)", Episode 5
+https://ktvsaudara.tech/vod/series/sugardaddy/sugar%20daddy%20ep%2005.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f8/Poster_Sugar_Daddy_%282025%29.jpg/500px-Poster_Sugar_Daddy_%282025%29.jpg" group-title="Sugar Daddy (2025)", Episode 6
+https://ktvsaudara.tech/vod/series/sugardaddy/Sugar_Daddy%20Episode6.mp4
+
+//////BIDAAH//////
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 1
+https://cdn4.turboviplay.com/data1/67caad90e0dd3/67caad90e0dd3.m3u8
+
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 2
+https://cdn4.turboviplay.com/data1/67cd47269835c/67cd47269835c.m3u8
+
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 3
+https://cdn4.turboviplay.com/data1/67cf98231804a/67cf98231804a.m3u8
+
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 4
+https://cdn4.turboviplay.com/data1/67e5310f89241/67e5310f89241.m3u8
+
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 5
+https://cdn4.turboviplay.com/data1/67d68e8ebd5da/67d68e8ebd5da.m3u8
+
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 6
+https://cdn4.turboviplay.com/data1/67da3811d414e/67da3811d414e.m3u8
+
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 7
+https://cdn4.turboviplay.com/data1/67dc011ded90d/67dc011ded90d.m3u8
+
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 8
+https://cdn4.turboviplay.com/data1/67ded41977f39/67ded41977f39.m3u8
+
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 9
+https://cdn4.turboviplay.com/data1/67ded79b0b537/67ded79b0b537.m3u8
+
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 10
+https://cdn4.turboviplay.com/data1/67e594a08b907/67e594a08b907.m3u8
+
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 11
+https://cdn4.turboviplay.com/data1/67e79e1d4d63b/67e79e1d4d63b.m3u8
+
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 12
+https://cdn4.turboviplay.com/data1/67ecd03c872f5/67ecd03c872f5.m3u8
+
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 13
+https://cdn4.turboviplay.com/data1/67ee8eaa7e43b/67ee8eaa7e43b.m3u8
+
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 14
+https://cdn4.turboviplay.com/data1/67efb850154ae/67efb850154ae.m3u8
+
+#EXTINF:-1 tvg-id="bidaah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmZWU4MGItYjNjNS00OTIxLTliNTQtOWE0Njg3MTI0ZTA2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg" group-title="BIDAAH (2025)", Episode 15
+https://cdn4.turboviplay.com/data1/67f13527ddeb0/67f13527ddeb0.m3u8
+
+//////STUDY GROUP (2025)//////
+#EXTINF:-1 tvg-id="Study group" tvg-logo="https://koreanindo.net/wp-content/uploads/2025/01/study-group-poster-scaled-1430x2048.jpeg" group-title="STUDY GROUP – Season 1 (2025)", Episode 1
+https://ktvsaudara.tech/vod/series/Study%20Group/Study.Group.S01E01.480p.mp4
+
+#EXTINF:-1 tvg-id="Study group" tvg-logo="https://koreanindo.net/wp-content/uploads/2025/01/study-group-poster-scaled-1430x2048.jpeg" group-title="STUDY GROUP – Season 1 (2025)", Episode 2
+https://ktvsaudara.tech/vod/series/Study%20Group/Study.Group.S01E02.480p.mp4
+
+#EXTINF:-1 tvg-id="Study group" tvg-logo="https://koreanindo.net/wp-content/uploads/2025/01/study-group-poster-scaled-1430x2048.jpeg" group-title="STUDY GROUP – Season 1 (2025)", Episode 3
+https://ktvsaudara.tech/vod/series/Study%20Group/Study.Group.S01E03.480p.mp4
+
+#EXTINF:-1 tvg-id="Study group" tvg-logo="https://koreanindo.net/wp-content/uploads/2025/01/study-group-poster-scaled-1430x2048.jpeg" group-title="STUDY GROUP – Season 1 (2025)", Episode 4
+https://ktvsaudara.tech/vod/series/Study%20Group/Study.Group.S01E04.480p.mp4
+
+#EXTINF:-1 tvg-id="Study group" tvg-logo="https://koreanindo.net/wp-content/uploads/2025/01/study-group-poster-scaled-1430x2048.jpeg" group-title="STUDY GROUP – Season 1 (2025)", Episode 5
+https://ktvsaudara.tech/vod/series/Study%20Group/Study.Group.S01E05.480p.mp4
+
+#EXTINF:-1 tvg-id="Study group" tvg-logo="https://koreanindo.net/wp-content/uploads/2025/01/study-group-poster-scaled-1430x2048.jpeg" group-title="STUDY GROUP – Season 1 (2025)", Episode 6
+https://ktvsaudara.tech/vod/series/Study%20Group/Study.Group.S01E06.480p.mp4
+
+#EXTINF:-1 tvg-id="Study group" tvg-logo="https://koreanindo.net/wp-content/uploads/2025/01/study-group-poster-scaled-1430x2048.jpeg" group-title="STUDY GROUP – Season 1 (2025)", Episode 7
+https://ktvsaudara.tech/vod/series/Study%20Group/Study.Group.S01E07.480p.mp4
+
+#EXTINF:-1 tvg-id="Study group" tvg-logo="https://koreanindo.net/wp-content/uploads/2025/01/study-group-poster-scaled-1430x2048.jpeg" group-title="STUDY GROUP – Season 1 (2025)", Episode 8
+https://ktvsaudara.tech/vod/series/Study%20Group/Study.Group.S01E08.480p.mp4
+
+#EXTINF:-1 tvg-id="Study group" tvg-logo="https://koreanindo.net/wp-content/uploads/2025/01/study-group-poster-scaled-1430x2048.jpeg" group-title="STUDY GROUP – Season 1 (2025)", Episode 9
+https://ktvsaudara.tech/vod/series/Study%20Group/Study.Group.S01E09.480p.mp4
+
+#EXTINF:-1 tvg-id="Study group" tvg-logo="https://koreanindo.net/wp-content/uploads/2025/01/study-group-poster-scaled-1430x2048.jpeg" group-title="STUDY GROUP – Season 1 (2025)", Episode 10
+https://ktvsaudara.tech/vod/series/Study%20Group/Study.Group.S01E10.480p.mp4
+
+
+//////NEWTOPIA (2025)//////
+#EXTINF:-1 tvg-id="Newtopia" tvg-logo="https://fr.web.img6.acsta.net/c_310_420/img/00/5c/005c36b637ff0a84a59743abc8068889.jpg" group-title="NEWTOPIA – Season 1 (2025)", Episode 1
+https://ktvsaudara.tech/vod/series/newtopia/Newtopia.S01E01.720p.mp4
+
+#EXTINF:-1 tvg-id="Newtopia" tvg-logo="https://fr.web.img6.acsta.net/c_310_420/img/00/5c/005c36b637ff0a84a59743abc8068889.jpg" group-title="NEWTOPIA – Season 1 (2025)", Episode 2
+https://ktvsaudara.tech/vod/series/newtopia/Newtopia.S01E02.720p.mp4
+
+#EXTINF:-1 tvg-id="Newtopia" tvg-logo="https://fr.web.img6.acsta.net/c_310_420/img/00/5c/005c36b637ff0a84a59743abc8068889.jpg" group-title="NEWTOPIA – Season 1 (2025)", Episode 3
+https://ktvsaudara.tech/vod/series/newtopia/Newtopia.S01E03.720p.mp4
+
+#EXTINF:-1 tvg-id="Newtopia" tvg-logo="https://fr.web.img6.acsta.net/c_310_420/img/00/5c/005c36b637ff0a84a59743abc8068889.jpg" group-title="NEWTOPIA – Season 1 (2025)", Episode 4
+https://ktvsaudara.tech/vod/series/newtopia/Newtopia.S01E04.720p.mp4
+
+#EXTINF:-1 tvg-id="Newtopia" tvg-logo="https://fr.web.img6.acsta.net/c_310_420/img/00/5c/005c36b637ff0a84a59743abc8068889.jpg" group-title="NEWTOPIA – Season 1 (2025)", Episode 5
+https://ktvsaudara.tech/vod/series/newtopia/Newtopia.S01E05.720p.mp4
+
+#EXTINF:-1 tvg-id="Newtopia" tvg-logo="https://fr.web.img6.acsta.net/c_310_420/img/00/5c/005c36b637ff0a84a59743abc8068889.jpg" group-title="NEWTOPIA – Season 1 (2025)", Episode 6
+https://ktvsaudara.tech/vod/series/newtopia/Newtopia.S01E06.720p.mp4
+
+
+-----------------------------------------------------------------When I Fly Towards You – Season 1 (2023)------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 1
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-1-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 2
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-2-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 3
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-3-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 4
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-4-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 5
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-5-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 6
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-6-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 7
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-7-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 8
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-8-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 9
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-9-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 10
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-10-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 11
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-11-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 12
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-12-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 13
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-13-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 14
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-14-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 15
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-15-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 16
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-16-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 17
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-17-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 18
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-18-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 19
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-19-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 20
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-20-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 21
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-21-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 22
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-22-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 23
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-23-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="When I Fly Towards You" tvg-logo="https://i.mydramalist.com/1wOO83_4f.jpg" group-title="When I Fly Towards You – Season 1 (2023)", Episode 24 End
+https://stream.hownetwork.xyz/xxx/when-i-fly-towards-you-season-1-episode-24-2023-webdl/11/480.m3u8
+
+
+-----------------------------------------------------------------All of Us Are Dead (Jigeum Uri Hakgyoneun) (2022)------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="All of Us Are Dead" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Nodc8gf8d7t4u69oRVhiotMHFk_fZ_T54A&s" group-title="All of Us Are Dead (Jigeum Uri Hakgyoneun) (2022)", Episode 1
+https://stream.hownetwork.xyz/xxx/all-of-us-are-dead-jigeum-uri-hakgyoneun-season-1-episode-1-2022-webdl/13/480.m3u8
+
+#EXTINF:-1 tvg-id="All of Us Are Dead" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Nodc8gf8d7t4u69oRVhiotMHFk_fZ_T54A&s" group-title="All of Us Are Dead (Jigeum Uri Hakgyoneun) (2022)", Episode 2
+https://stream.hownetwork.xyz/xxx/all-of-us-are-dead-jigeum-uri-hakgyoneun-season-1-episode-2-2022-webdl/13/480.m3u8
+
+#EXTINF:-1 tvg-id="All of Us Are Dead" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Nodc8gf8d7t4u69oRVhiotMHFk_fZ_T54A&s" group-title="All of Us Are Dead (Jigeum Uri Hakgyoneun) (2022)", Episode 3
+https://stream.hownetwork.xyz/xxx/all-of-us-are-dead-jigeum-uri-hakgyoneun-season-1-episode-3-2022-webdl_X_d4a3d2a4/18/480.m3u8
+
+#EXTINF:-1 tvg-id="All of Us Are Dead" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Nodc8gf8d7t4u69oRVhiotMHFk_fZ_T54A&s" group-title="All of Us Are Dead (Jigeum Uri Hakgyoneun) (2022)", Episode 4
+https://stream.hownetwork.xyz/xxx/all-of-us-are-dead-jigeum-uri-hakgyoneun-season-1-episode-4-2022-webdl/13/480.m3u8
+
+#EXTINF:-1 tvg-id="All of Us Are Dead" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Nodc8gf8d7t4u69oRVhiotMHFk_fZ_T54A&s" group-title="All of Us Are Dead (Jigeum Uri Hakgyoneun) (2022)", Episode 5
+https://stream.hownetwork.xyz/xxx/all-of-us-are-dead-jigeum-uri-hakgyoneun-season-1-episode-5-2022-webdl/13/480.m3u8
+
+#EXTINF:-1 tvg-id="All of Us Are Dead" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Nodc8gf8d7t4u69oRVhiotMHFk_fZ_T54A&s" group-title="All of Us Are Dead (Jigeum Uri Hakgyoneun) (2022)", Episode 6
+https://be7713.rcr82.waw05.cdn255.com/hls2/01/02744/tbb3zgabo0sx_n/index-v1-a1.m3u8?t=KoyqHCUqXur9HBh20RjAnRM95BBf7Q5-KEl2VBsH4oQ&s=1736231666&e=10800&f=13912763&srv=25&asn=63859&sp=4000&p=
+
+#EXTINF:-1 tvg-id="All of Us Are Dead" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Nodc8gf8d7t4u69oRVhiotMHFk_fZ_T54A&s" group-title="All of Us Are Dead (Jigeum Uri Hakgyoneun) (2022)", Episode 7
+https://be4242.rcr52.ams03.cdn255.com/hls2/01/02744/2un588jus43w_n/index-v1-a1.m3u8?t=RfSyft75eSAuAzWkcaDRoDuw5CXCTZKnVKc_RHlxCAY&s=1736231698&e=10800&f=13912774&srv=17&asn=63859&sp=4000&p=
+
+#EXTINF:-1 tvg-id="All of Us Are Dead" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Nodc8gf8d7t4u69oRVhiotMHFk_fZ_T54A&s" group-title="All of Us Are Dead (Jigeum Uri Hakgyoneun) (2022)", Episode 8
+https://be6721.rcr72.waw04.cdn255.com/hls2/02/02744/lxc586dab1nt_n/index-v1-a1.m3u8?t=AgndM1a-eiTD8_DUAqGHAPYfjy2P_2sNF99BkRyToy4&s=1736231716&e=10800&f=13912757&srv=25&asn=63859&sp=4000&p=
+
+#EXTINF:-1 tvg-id="All of Us Are Dead" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Nodc8gf8d7t4u69oRVhiotMHFk_fZ_T54A&s" group-title="All of Us Are Dead (Jigeum Uri Hakgyoneun) (2022)", Episode 9
+https://stream.hownetwork.xyz/xxx/all-of-us-are-dead-jigeum-uri-hakgyoneun-season-1-episode-9-2022-webdl/13/480.m3u8
+
+#EXTINF:-1 tvg-id="All of Us Are Dead" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Nodc8gf8d7t4u69oRVhiotMHFk_fZ_T54A&s" group-title="All of Us Are Dead (Jigeum Uri Hakgyoneun) (2022)", Episode 10
+https://stream.hownetwork.xyz/xxx/all-of-us-are-dead-jigeum-uri-hakgyoneun-season-1-episode-10-2022-webdl/13/480.m3u8
+
+#EXTINF:-1 tvg-id="All of Us Are Dead" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Nodc8gf8d7t4u69oRVhiotMHFk_fZ_T54A&s" group-title="All of Us Are Dead (Jigeum Uri Hakgyoneun) (2022)", Episode 11
+https://stream.hownetwork.xyz/xxx/all-of-us-are-dead-jigeum-uri-hakgyoneun-season-1-episode-11-2022-webdl/13/480.m3u8
+
+#EXTINF:-1 tvg-id="All of Us Are Dead" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Nodc8gf8d7t4u69oRVhiotMHFk_fZ_T54A&s" group-title="All of Us Are Dead (Jigeum Uri Hakgyoneun) (2022)", Episode 12 End
+https://stream.hownetwork.xyz/xxx/all-of-us-are-dead-jigeum-uri-hakgyoneun-season-1-episode-12-2022-webdl_X_09e411b7/19/480.m3u8
+
+
+
+-----------------------------------------------------------------Iron Family (2024)------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 1
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-1-2024-hdtv_X_46b99372/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 2
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-2-2024-hdtv_X_28d6b0b1/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 3
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-3-2024-hdtv_X_def52a95/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 4
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-4-2024-hdtv_X_d3113b16/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 5
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-5-2024-hdtv_X_d8412ab6/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 6
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-6-2024-hdtv_X_77418f9c/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 7
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-7-2024-hdtv_X_9a3b22d5/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 8
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-8-2024-hdtv_X_bb094d6a/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 9
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-9-2024-hdtv_X_3311751b/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 10
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-10-2024-hdtv_X_86507887/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 11
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-11-2024-hdtv_X_f2945439/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 12
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-12-2024-hdtv_X_a40ba17b/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 13
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-13-2024-hdtv_X_58054d06/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 14
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-14-2024-hdtv_X_fa54243c/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 15
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-15-2024-hdtv_X_4a5d7aac/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 16
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-16-2024-hdtv_X_508b1dff/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 17
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-17-2024-hdtv_X_a007b44e/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 18
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-18-2024-hdtv_X_ee23c332/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 19
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-19-2024-hdtv_X_65cc37ea/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 20
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-20-2024-hdtv_X_746d7419/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 21
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-21-2024-hdtv_X_d116d3ec/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 22
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-22-2024-hdtv_X_4dcdd844/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 23
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-23-2024-hdtv_X_d099197c/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 24
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-24-2024-hdtv_X_561ea327/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 25
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-25-2024-hdtv_X_682ed97b/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Iron Family" tvg-logo="https://i.mydramalist.com/d0QL50_4f.jpg" group-title="Iron Family (2024)", Episode 26
+https://stream.hownetwork.xyz/xxx/iron-family-season-1-episode-26-2024-webdl_X_4bde5227/26/480.m3u8
+
+
+
+-----------------------------------------------------------------The Tale of Lady Ok – Season 1------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="The Tale of Lady Ok" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/The_Tale_of_Lady_Ok_poster.png" group-title="The Tale of Lady Ok – Season 1", Episode 1
+https://stream.hownetwork.xyz/xxx/the-tale-of-lady-ok-season-1-episode-1-2024-webdl_X_1a86bcab/26/480.m3u8
+
+#EXTINF:-1 tvg-id="The Tale of Lady Ok" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/The_Tale_of_Lady_Ok_poster.png" group-title="The Tale of Lady Ok – Season 1", Episode 2
+https://stream.hownetwork.xyz/xxx/the-tale-of-lady-ok-season-1-episode-2-2024-webdl_X_8d1ed0d9/26/480.m3u8
+
+#EXTINF:-1 tvg-id="The Tale of Lady Ok" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/The_Tale_of_Lady_Ok_poster.png" group-title="The Tale of Lady Ok – Season 1", Episode 3
+https://stream.hownetwork.xyz/xxx/the-tale-of-lady-ok-season-1-episode-3-2024-webdl_X_ec82a713/26/480.m3u8
+
+#EXTINF:-1 tvg-id="The Tale of Lady Ok" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/The_Tale_of_Lady_Ok_poster.png" group-title="The Tale of Lady Ok – Season 1", Episode 4
+https://stream.hownetwork.xyz/xxx/the-tale-of-lady-ok-season-1-episode-4-2024-webdl_X_0c00e49e/26/480.m3u8
+
+#EXTINF:-1 tvg-id="The Tale of Lady Ok" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/The_Tale_of_Lady_Ok_poster.png" group-title="The Tale of Lady Ok – Season 1", Episode 5
+https://cdn1.turboviplay.cc/data1/6767db460480b/6767db460480b480.m3u8
+
+#EXTINF:-1 tvg-id="The Tale of Lady Ok" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/The_Tale_of_Lady_Ok_poster.png" group-title="The Tale of Lady Ok – Season 1", Episode 6
+https://stream.hownetwork.xyz/xxx/the-tale-of-lady-ok-season-1-episode-6-2024-webdl_X_7900d835/26/480.m3u8
+
+
+-----------------------------------------------------------------Rugged Rugby: Conquer or Die – Season 1------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="Rugged Rugby: Conquer or Die" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/2Q5rLxVOIb0rdex6594ylz/9331f8dea421c209075f1a0388cd73c3/ENUS_RuggedRugby-ConquerorDie_MainKA_Vertical_RGB_PRE.jpg?w=2000" group-title="Rugged Rugby: Conquer or Die – Season 1", Episode 1
+https://stream.hownetwork.xyz/xxx/rugged-rugby-conquer-or-die-season-1-episode-1-2024-webdl_X_07e54057/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Rugged Rugby: Conquer or Die" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/2Q5rLxVOIb0rdex6594ylz/9331f8dea421c209075f1a0388cd73c3/ENUS_RuggedRugby-ConquerorDie_MainKA_Vertical_RGB_PRE.jpg?w=2000" group-title="Rugged Rugby: Conquer or Die – Season 1", Episode 2
+https://stream.hownetwork.xyz/xxx/rugged-rugby-conquer-or-die-season-1-episode-2-2024-webdl_X_1bb3ab59/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Rugged Rugby: Conquer or Die" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/2Q5rLxVOIb0rdex6594ylz/9331f8dea421c209075f1a0388cd73c3/ENUS_RuggedRugby-ConquerorDie_MainKA_Vertical_RGB_PRE.jpg?w=2000" group-title="Rugged Rugby: Conquer or Die – Season 1", Episode 3
+https://stream.hownetwork.xyz/xxx/rugged-rugby-conquer-or-die-season-1-episode-3-2024-webdl_X_842531e3/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Rugged Rugby: Conquer or Die" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/2Q5rLxVOIb0rdex6594ylz/9331f8dea421c209075f1a0388cd73c3/ENUS_RuggedRugby-ConquerorDie_MainKA_Vertical_RGB_PRE.jpg?w=2000" group-title="Rugged Rugby: Conquer or Die – Season 1", Episode 4
+https://stream.hownetwork.xyz/xxx/rugged-rugby-conquer-or-die-season-1-episode-4-2024-webdl_X_b244e05f/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Rugged Rugby: Conquer or Die" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/2Q5rLxVOIb0rdex6594ylz/9331f8dea421c209075f1a0388cd73c3/ENUS_RuggedRugby-ConquerorDie_MainKA_Vertical_RGB_PRE.jpg?w=2000" group-title="Rugged Rugby: Conquer or Die – Season 1", Episode 5
+https://cdn1.turboviplay.cc/data1/67681aee2e60a/67681aee2e60a480.m3u8
+
+#EXTINF:-1 tvg-id="Rugged Rugby: Conquer or Die" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/2Q5rLxVOIb0rdex6594ylz/9331f8dea421c209075f1a0388cd73c3/ENUS_RuggedRugby-ConquerorDie_MainKA_Vertical_RGB_PRE.jpg?w=2000" group-title="Rugged Rugby: Conquer or Die – Season 1", Episode 6
+https://cdn1.turboviplay.cc/data1/67682483eb6b8/67682483eb6b8480.m3u8
+
+#EXTINF:-1 tvg-id="Rugged Rugby: Conquer or Die" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/2Q5rLxVOIb0rdex6594ylz/9331f8dea421c209075f1a0388cd73c3/ENUS_RuggedRugby-ConquerorDie_MainKA_Vertical_RGB_PRE.jpg?w=2000" group-title="Rugged Rugby: Conquer or Die – Season 1", Episode 7
+https://cdn1.turboviplay.cc/data1/67682ed34b4e8/67682ed34b4e8480.m3u8
+
+
+-----------------------------------------------------------------When the Phone Rings (2024)------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="When the Phone Rings" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/10/31/poster-drama-korea-when-the-phone-rings.jpeg?w=800" group-title="When the Phone Rings – Season 1", Episode 1
+https://stream.hownetwork.xyz/xxx/when-the-phone-rings-season-1-episode-1-2024-webdl_X_e6078634/26/480.m3u8
+
+#EXTINF:-1 tvg-id="When the Phone Rings" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/10/31/poster-drama-korea-when-the-phone-rings.jpeg?w=800" group-title="When the Phone Rings – Season 1", Episode 2
+https://stream.hownetwork.xyz/xxx/when-the-phone-rings-season-1-episode-2-2024-webdl_X_251878f3/26/480.m3u8
+
+#EXTINF:-1 tvg-id="When the Phone Rings" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/10/31/poster-drama-korea-when-the-phone-rings.jpeg?w=800" group-title="When the Phone Rings – Season 1", Episode 3
+https://stream.hownetwork.xyz/xxx/when-the-phone-rings-season-1-episode-3-2024-webdl_X_b5b4e8ef/26/480.m3u8
+
+#EXTINF:-1 tvg-id="When the Phone Rings" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/10/31/poster-drama-korea-when-the-phone-rings.jpeg?w=800" group-title="When the Phone Rings – Season 1", Episode 4
+https://stream.hownetwork.xyz/xxx/when-the-phone-rings-season-1-episode-4-2024-webdl_X_a775ecad/26/480.m3u8
+
+#EXTINF:-1 tvg-id="When the Phone Rings" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/10/31/poster-drama-korea-when-the-phone-rings.jpeg?w=800" group-title="When the Phone Rings – Season 1", Episode 5
+https://stream.hownetwork.xyz/xxx/when-the-phone-rings-season-1-episode-5-2024-webdl_X_1617f425/26/480.m3u8
+
+#EXTINF:-1 tvg-id="When the Phone Rings" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/10/31/poster-drama-korea-when-the-phone-rings.jpeg?w=800" group-title="When the Phone Rings – Season 1", Episode 6
+https://stream.hownetwork.xyz/xxx/when-the-phone-rings-season-1-episode-6-2024-webdl_X_e7ad5c22/26/480.m3u8
+
+#EXTINF:-1 tvg-id="When the Phone Rings" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/10/31/poster-drama-korea-when-the-phone-rings.jpeg?w=800" group-title="When the Phone Rings – Season 1", Episode 7
+https://stream.hownetwork.xyz/xxx/when-the-phone-rings-season-1-episode-7-2024-webdl_X_e2fd6e64/26/480.m3u8
+
+#EXTINF:-1 tvg-id="When the Phone Rings" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/10/31/poster-drama-korea-when-the-phone-rings.jpeg?w=800" group-title="When the Phone Rings – Season 1", Episode 8
+https://cdn1.turboviplay.cc/data1/6767eb9b6d50c/6767eb9b6d50c480.m3u8
+
+
+-----------------------------------------------------------------Light Shop (2024)------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="Light Shop" tvg-logo="https://bisik.b-cdn.net/1733661448098-bf722c21165a3b97.webp" group-title=" Light Shop – Season 1", Episode 1
+https://stream.hownetwork.xyz/xxx/light-shop-season-1-episode-1-2024-webdl_X_66e0cb19/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Light Shop" tvg-logo="https://bisik.b-cdn.net/1733661448098-bf722c21165a3b97.webp" group-title=" Light Shop – Season 1", Episode 2
+https://stream.hownetwork.xyz/xxx/light-shop-season-1-episode-2-2024-webdl_X_dcf74921/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Light Shop" tvg-logo="https://bisik.b-cdn.net/1733661448098-bf722c21165a3b97.webp" group-title=" Light Shop – Season 1", Episode 3
+https://stream.hownetwork.xyz/xxx/light-shop-season-1-episode-3-2024-webdl_X_f93e7537/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Light Shop" tvg-logo="https://bisik.b-cdn.net/1733661448098-bf722c21165a3b97.webp" group-title=" Light Shop – Season 1", Episode 4
+https://stream.hownetwork.xyz/xxx/light-shop-season-1-episode-4-2024-webdl_X_9d987fa8/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Light Shop" tvg-logo="https://bisik.b-cdn.net/1733661448098-bf722c21165a3b97.webp" group-title=" Light Shop – Season 1", Episode 5
+https://stream.hownetwork.xyz/xxx/light-shop-season-1-episode-5-2024-webdl_X_8e750382/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Light Shop" tvg-logo="https://bisik.b-cdn.net/1733661448098-bf722c21165a3b97.webp" group-title=" Light Shop – Season 1", Episode 6
+https://stream.hownetwork.xyz/xxx/light-shop-season-1-episode-6-2024-webdl_X_f3b09390/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Light Shop" tvg-logo="https://bisik.b-cdn.net/1733661448098-bf722c21165a3b97.webp" group-title=" Light Shop – Season 1", Episode 7
+https://stream.hownetwork.xyz/xxx/light-shop-season-1-episode-7-2024-webdl_X_f780e5f6/26/480.m3u8
+
+#EXTINF:-1 tvg-id="Light Shop" tvg-logo="https://bisik.b-cdn.net/1733661448098-bf722c21165a3b97.webp" group-title=" Light Shop – Season 1", Episode 8
+https://stream.hownetwork.xyz/xxx/light-shop-season-1-episode-8-2024-webdl_X_0e0eb5f6/26/480.m3u8
+
+
+------------------------------------------------------------------------Squid Game – Season 1--------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="Squid Game – Season 1", Episode 1
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-1-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="Squid Game – Season 1", Episode 2
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-2-2021-webdl_X_1988d11b/22/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="Squid Game – Season 1", Episode 3
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-3-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="Squid Game – Season 1", Episode 4
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-4-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="Squid Game – Season 1", Episode 5
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-5-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="Squid Game – Season 1", Episode 6
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-6-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="Squid Game – Season 1", Episode 7
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-7-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="Squid Game – Season 1", Episode 8
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-8-2021-webdl_X_88562b72/18/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="Squid Game – Season 1", Episode 9
+https://stream.hownetwork.xyz/xxx/squid-game-season-1-episode-9-2021-webdl/14/480.m3u8
+
+------------------------------------------------------------------------Squid Game – Season 2--------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumb.viva.id/vivagadget/665x374/2024/12/26/676d40fb85fde-link-nonton-film-squid-game-2-resolusi-hd-jernih-dan-audio-mantap_.jpg" group-title="Squid Game – Season 2", Episode 1
+https://cdn1.turboviplay.cc/data1/676d81533a6ba/676d81533a6ba.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumb.viva.id/vivagadget/665x374/2024/12/26/676d40fb85fde-link-nonton-film-squid-game-2-resolusi-hd-jernih-dan-audio-mantap_.jpg" group-title="Squid Game – Season 2", Episode 2
+https://cdn1.turboviplay.cc/data1/676d872398090/676d872398090480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumb.viva.id/vivagadget/665x374/2024/12/26/676d40fb85fde-link-nonton-film-squid-game-2-resolusi-hd-jernih-dan-audio-mantap_.jpg" group-title="Squid Game – Season 2", Episode 3
+https://cdn1.turboviplay.cc/data1/676d8e4050d2f/676d8e4050d2f480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumb.viva.id/vivagadget/665x374/2024/12/26/676d40fb85fde-link-nonton-film-squid-game-2-resolusi-hd-jernih-dan-audio-mantap_.jpg" group-title="Squid Game – Season 2", Episode 4
+https://cdn1.turboviplay.cc/data1/676d9410128b4/676d9410128b4480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumb.viva.id/vivagadget/665x374/2024/12/26/676d40fb85fde-link-nonton-film-squid-game-2-resolusi-hd-jernih-dan-audio-mantap_.jpg" group-title="Squid Game – Season 2", Episode 5
+https://cdn1.turboviplay.cc/data1/676d9c62be105/676d9c62be105480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumb.viva.id/vivagadget/665x374/2024/12/26/676d40fb85fde-link-nonton-film-squid-game-2-resolusi-hd-jernih-dan-audio-mantap_.jpg" group-title="Squid Game – Season 2", Episode 6
+https://cdn1.turboviplay.cc/data1/676da2255d8de/676da2255d8de480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumb.viva.id/vivagadget/665x374/2024/12/26/676d40fb85fde-link-nonton-film-squid-game-2-resolusi-hd-jernih-dan-audio-mantap_.jpg" group-title="Squid Game – Season 2", Episode 7
+https://cdn1.turboviplay.cc/data1/676da925519a6/676da925519a6480.m3u8
+
+
+------------------------------------------------------------------------Squid Game – Season 3--------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://sumateraekspres.bacakoran.co/upload/c3de3adc49599727178ec00335a9d189.jpg" group-title="Squid Game – Season 3", Episode 1
+#EXTVLCOPT:http-referrer=https://emturbovid.com/
+https://cdn168.tinusoud.com/data/0/7D/685e612ea9a96/685e612ea9a96720.m3u8
+
+#EXTINF:-1 tvg-logo="https://sumateraekspres.bacakoran.co/upload/c3de3adc49599727178ec00335a9d189.jpg" group-title="Squid Game – Season 3", Episode 2
+#EXTVLCOPT:http-referrer=https://emturbovid.com/
+https://cdn167.hugoal.com/data/3/46/685e614d7164b/685e614d7164b720.m3u8
+
+#EXTINF:-1 tvg-logo="https://sumateraekspres.bacakoran.co/upload/c3de3adc49599727178ec00335a9d189.jpg" group-title="Squid Game – Season 3", Episode 3
+#EXTVLCOPT:http-referrer=https://emturbovid.com/
+https://cdn153.monaydi.com/data/3/D8/685e613c00eea/685e613c00eea720.m3u8
+
+#EXTINF:-1 tvg-logo="https://sumateraekspres.bacakoran.co/upload/c3de3adc49599727178ec00335a9d189.jpg" group-title="Squid Game – Season 3", Episode 4
+#EXTVLCOPT:http-referrer=https://emturbovid.com/
+https://cdn158.muletten.com/data/A/CA/685e6132101c5/685e6132101c5720.m3u8
+
+#EXTINF:-1 tvg-logo="https://sumateraekspres.bacakoran.co/upload/c3de3adc49599727178ec00335a9d189.jpg" group-title="Squid Game – Season 3", Episode 5
+#EXTVLCOPT:http-referrer=https://ktvsaudara.tech/
+https://ktvsaudara.tech/vod/series/SquidGame3/Squid%20Game_S03E05_%E2%97%8B%E2%96%B3%E2%96%A1.mp4
+
+#EXTINF:-1 tvg-logo="https://sumateraekspres.bacakoran.co/upload/c3de3adc49599727178ec00335a9d189.jpg" group-title="Squid Game – Season 3", Episode 6
+#EXTVLCOPT:http-referrer=https://emturbovid.com/
+https://cdn159.muletten.com/data/3/47/685e6128ebec5/685e6128ebec5720.m3u8
+
+
+-----------------------------------------------------------------Who Is She? aka Susanghan Geunyeo------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://asianwiki.com/images/f/f4/Who_Is_She-p.jpg" group-title="Who Is She? aka Susanghan Geunyeo (2024)", Episode 1
+https://stream.hownetwork.xyz/xxx/who-is-she-aka-susanghan-geunyeo-season-1-episode-1-2024-hdtv_X_cb088f3e/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://asianwiki.com/images/f/f4/Who_Is_She-p.jpg" group-title="Who Is She? aka Susanghan Geunyeo (2024)", Episode 2
+https://stream.hownetwork.xyz/xxx/who-is-she-aka-susanghan-geunyeo-season-1-episode-2-2024-hdtv_X_8cb850c8/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://asianwiki.com/images/f/f4/Who_Is_She-p.jpg" group-title="Who Is She? aka Susanghan Geunyeo (2024)", Episode 3
+https://cdn1.turboviplay.cc/data1/676dbe4934db9/676dbe4934db9480.m3u8
+
+
+
+-----------------------------------------------------------------Parole Examiner Lee aka Gaseogbang Simsagwan Lee Han Shin (2024)------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://i.mydramalist.com/5vLEnL_4f.jpg" group-title="Parole Examiner Lee aka Gaseogbang Simsagwan Lee Han Shin (2024)", Episode 1
+https://stream.hownetwork.xyz/xxx/parole-examiner-lee-aka-gaseogbang-simsagwan-lee-han-sin-season-1-episode-1-2024-hdtv_X_e0fc3dea/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://i.mydramalist.com/5vLEnL_4f.jpg" group-title="Parole Examiner Lee aka Gaseogbang Simsagwan Lee Han Shin (2024)", Episode 2
+https://stream.hownetwork.xyz/xxx/parole-examiner-lee-aka-gaseogbang-simsagwan-lee-han-sin-season-1-episode-2-2024-hdtv_X_7f8ed514/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://i.mydramalist.com/5vLEnL_4f.jpg" group-title="Parole Examiner Lee aka Gaseogbang Simsagwan Lee Han Shin (2024)", Episode 3
+https://stream.hownetwork.xyz/xxx/parole-examiner-lee-aka-gaseogbang-simsagwan-lee-han-sin-season-1-episode-3-2024-hdtv_X_01199cea/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://i.mydramalist.com/5vLEnL_4f.jpg" group-title="Parole Examiner Lee aka Gaseogbang Simsagwan Lee Han Shin (2024)", Episode 4
+https://stream.hownetwork.xyz/xxx/parole-examiner-lee-aka-gaseogbang-simsagwan-lee-han-sin-season-1-episode-4-2024-hdtv_X_2417387c/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://i.mydramalist.com/5vLEnL_4f.jpg" group-title="Parole Examiner Lee aka Gaseogbang Simsagwan Lee Han Shin (2024)", Episode 5
+https://stream.hownetwork.xyz/xxx/parole-examiner-lee-aka-gaseogbang-simsagwan-lee-han-sin-season-1-episode-5-2024-hdtv_X_8d3698a3/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://i.mydramalist.com/5vLEnL_4f.jpg" group-title="Parole Examiner Lee aka Gaseogbang Simsagwan Lee Han Shin (2024)", Episode 6
+https://stream.hownetwork.xyz/xxx/parole-examiner-lee-aka-gaseogbang-simsagwan-lee-han-sin-season-1-episode-6-2024-hdtv_X_17c03d14/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://i.mydramalist.com/5vLEnL_4f.jpg" group-title="Parole Examiner Lee aka Gaseogbang Simsagwan Lee Han Shin (2024)", Episode 7
+https://stream.hownetwork.xyz/xxx/parole-examiner-lee-aka-gaseogbang-simsagwan-lee-han-sin-season-1-episode-7-2024-hdtv_X_db034f2d/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://i.mydramalist.com/5vLEnL_4f.jpg" group-title="Parole Examiner Lee aka Gaseogbang Simsagwan Lee Han Shin (2024)", Episode 8
+https://stream.hownetwork.xyz/xxx/parole-examiner-lee-aka-gaseogbang-simsagwan-lee-han-sin-season-1-episode-8-2024-hdtv_X_2d213c98/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://i.mydramalist.com/5vLEnL_4f.jpg" group-title="Parole Examiner Lee aka Gaseogbang Simsagwan Lee Han Shin (2024)", Episode 9
+https://stream.hownetwork.xyz/xxx/parole-examiner-lee-aka-gaseogbang-simsagwan-lee-han-sin-season-1-episode-8-2024-hdtv_X_2d213c98/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://i.mydramalist.com/5vLEnL_4f.jpg" group-title="Parole Examiner Lee aka Gaseogbang Simsagwan Lee Han Shin (2024)", Episode 10
+https://stream.hownetwork.xyz/xxx/parole-examiner-lee-aka-gaseogbang-simsagwan-lee-han-sin-season-1-episode-10-2024-hdtv_X_e70b3240/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://i.mydramalist.com/5vLEnL_4f.jpg" group-title="Parole Examiner Lee aka Gaseogbang Simsagwan Lee Han Shin (2024)", Episode 11
+https://stream.hownetwork.xyz/xxx/parole-examiner-lee-aka-gaseogbang-simsagwan-lee-han-sin-season-1-episode-11-2024-webdl_X_7c77a3ac/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Who Is She? aka Susanghan Geunyeo" tvg-logo="https://i.mydramalist.com/5vLEnL_4f.jpg" group-title="Parole Examiner Lee aka Gaseogbang Simsagwan Lee Han Shin (2024)", Episode 12
+https://cdn1.turboviplay.cc/data1/676db74ae704c/676db74ae704c480.m3u8
+
+
+
+
+---------------------------------------------------------------------------------   Perfect Family – Season 1 ---------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Family" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/07/perfect-family-poster-scaled.jpg" group-title="Perfect Family – Season 1", Episode 1
+#EXTVLCOPT:http-referrer=https://wishonly.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gvtpbsgpgu.premilkyway.com/hls2/01/04675/8b51j82hwhq9_n/index-v1-a1.m3u8?t=7Wo-dzubfpFl60Kmuje69HwvLpHXQ_bEB65SW8fZiJs&s=1733030503&e=129600&f=23474693&srv=pg8s50jw8kzp&i=0.0&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Family" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/07/perfect-family-poster-scaled.jpg" group-title="Perfect Family – Season 1", Episode 2
+#EXTVLCOPT:http-referrer=https://wishonly.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cukooifnwbux.premilkyway.com/hls2/01/04681/qtqojm2wu3q7_n/index-v1-a1.m3u8?t=cgNvHG2rPssuYf4lxIQkk7N8DQAcDWo945qxAvCvOOg&s=1733030863&e=129600&f=23474694&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Family" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/07/perfect-family-poster-scaled.jpg" group-title="Perfect Family – Season 1", Episode 3
+#EXTVLCOPT:http-referrer=https://wishonly.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/04736/o62wo3jhf980_n/index-v1-a1.m3u8?t=e9Q4O-cmQjGaawgbWLuTc_3IGZmXv2L9ppxAntOSqvM&s=1733030894&e=129600&f=23680063&srv=jxnu44rmvdct&i=0.0&sp=500&p1=jxnu44rmvdct&p2=jxnu44rmvdct&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Family" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/07/perfect-family-poster-scaled.jpg" group-title="Perfect Family – Season 1", Episode 4
+#EXTVLCOPT:http-referrer=https://wishonly.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://z41g7h654h2kz.premilkyway.com/hls2/01/04840/nzpc4bbumixq_n/index-v1-a1.m3u8?t=lcDtIOIggzEPEqDsxCM9an_eGmf5UuI7IzUc79LLjZE&s=1733030921&e=129600&f=24204274&srv=R7khaR4Jtgqr&i=0.0&sp=500&p1=R7khaR4Jtgqr&p2=R7khaR4Jtgqr&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Family" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/07/perfect-family-poster-scaled.jpg" group-title="Perfect Family – Season 1", Episode 5
+#EXTVLCOPT:http-referrer=https://wishonly.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://guvi7x24e02c.premilkyway.com/hls2/01/04795/kl3qzby6954e_n/index-v1-a1.m3u8?t=Wlcp76v33IWbikiupYLSmjAgGM2p3epBx1B_JUDlEbg&s=1733030949&e=129600&f=24010319&srv=jtkd5kf4kett&i=0.0&sp=500&p1=jtkd5kf4kett&p2=jtkd5kf4kett&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Family" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/07/perfect-family-poster-scaled.jpg" group-title="Perfect Family – Season 1", Episode 6
+#EXTVLCOPT:http-referrer=https://wishonly.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://guvi7x24e02c.premilkyway.com/hls2/01/04802/pvqp8avebxu0_n/index-v1-a1.m3u8?t=I_nlaJ6iEnY_sOj40TWm5EA9U0FR9ZzkMJyp-tB8aRs&s=1733030974&e=129600&f=24010321&srv=o0iqqhz9to4p&i=0.0&sp=500&p1=o0iqqhz9to4p&p2=o0iqqhz9to4p&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Family" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/07/perfect-family-poster-scaled.jpg" group-title="Perfect Family – Season 1", Episode 7
+#EXTVLCOPT:http-referrer=https://wishonly.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://x579fbxkqa2f.premilkyway.com/hls2/01/04865/zmgamnpbncd7_n/index-v1-a1.m3u8?t=yXLVIqdICtyv2sj0auoaTX-xTbbXMVwxIJaqtiTFZ58&s=1733031319&e=129600&f=24325251&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Family" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/07/perfect-family-poster-scaled.jpg" group-title="Perfect Family – Season 1", Episode 8
+#EXTVLCOPT:http-referrer=https://wishonly.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://z41g7h654h2kz.premilkyway.com/hls2/01/04865/25kt7pmy8ws7_n/index-v1-a1.m3u8?t=_DtyYpuEBdIBRwLA3K29dwFo5RPJFukjVZPfpVqEf3A&s=1733031398&e=129600&f=24325249&srv=pg8s50jw8kzp&i=0.0&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Family" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/07/perfect-family-poster-scaled.jpg" group-title="Perfect Family – Season 1", Episode 9
+#EXTVLCOPT:http-referrer=https://wishonly.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://b3e1hpsn4lad.premilkyway.com/hls2/01/04922/6liu1pwbo86r_n/index-v1-a1.m3u8?t=f32SDXNj_WT-r1hVP-D8CvWAmU2SZwsZGItCNrbS4TI&s=1733031473&e=129600&f=24610644&srv=pg8s50jw8kzp&i=0.0&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Family" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/07/perfect-family-poster-scaled.jpg" group-title="Perfect Family – Season 1", Episode 10
+#EXTVLCOPT:http-referrer=https://wishonly.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://g9hb6ahmf6ejy.premilkyway.com/hls2/01/04922/17ddym7a4xul_n/index-v1-a1.m3u8?t=lDdNIOuQrH8jRdS2Y195mfgqX0IQ4JzyNr_d-HjMBU0&s=1733031505&e=129600&f=24610640&srv=xcjcmoh7mtij&i=0.0&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Family" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/07/perfect-family-poster-scaled.jpg" group-title="Perfect Family – Season 1", Episode11
+#EXTVLCOPT:http-referrer=https://wishonly.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://18jij6rntf.premilkyway.com/hls2/01/04941/6gszta7m6qug_n/index-v1-a1.m3u8?t=DL417JCtOeUHn5FC0QE-J6Rs3pJupuhcB9EG3Z1UhvY&s=1733031530&e=129600&f=24708135&srv=0wnh534rdgf989&i=0.0&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Family" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/07/perfect-family-poster-scaled.jpg" group-title="Perfect Family – Season 1", Episode 12
+#EXTVLCOPT:http-referrer=https://wishonly.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://vdgfzxrytoql.premilkyway.com/hls2/01/04953/u45m0ag74fd5_n/index-v1-a1.m3u8?t=5-truC7bC_sN5tpxDEE-dhZLQ5K-Z8nQGPhVEkO6Pbc&s=1733031565&e=129600&f=24766790&srv=refp3mq9fppl&i=0.0&sp=500&p1=refp3mq9fppl&p2=refp3mq9fppl&asn=63859
+
+
+---------------------------------------------------------------------------------   No Gain No Love (2024) – Season 1 ---------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="No Gain No Love" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/08/27/no-gain-no-love.jpeg?w=700&q=90" group-title="No Gain No Love (2024)", Episode 1
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn1.turboviplay.cc/data1/66ce9b236af16/66ce9b236af16.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="No Gain No Love" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/08/27/no-gain-no-love.jpeg?w=700&q=90" group-title="No Gain No Love (2024)", Episode 2
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn1.turboviplay.cc/data1/66cea0fe5f249/66cea0fe5f249480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="No Gain No Love" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/08/27/no-gain-no-love.jpeg?w=700&q=90" group-title="No Gain No Love (2024)", Episode 3
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn1.turboviplay.cc/data1/66d66b861a683/66d66b861a683480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="No Gain No Love" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/08/27/no-gain-no-love.jpeg?w=700&q=90" group-title="No Gain No Love (2024)", Episode 4
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn1.turboviplay.cc/data1/66d7b608d1375/66d7b608d1375480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="No Gain No Love" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/08/27/no-gain-no-love.jpeg?w=700&q=90" group-title="No Gain No Love (2024)", Episode 5
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn1.turboviplay.cc/data1/66dff2499954f/66dff2499954f480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="No Gain No Love" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/08/27/no-gain-no-love.jpeg?w=700&q=90" group-title="No Gain No Love (2024)", Episode 6
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn1.turboviplay.cc/data1/66e0a6c13643b/66e0a6c13643b480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="No Gain No Love" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/08/27/no-gain-no-love.jpeg?w=700&q=90" group-title="No Gain No Love (2024)", Episode 7
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn1.turboviplay.cc/data1/66e9375b6036e/66e9375b6036e480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="No Gain No Love" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/08/27/no-gain-no-love.jpeg?w=700&q=90" group-title="No Gain No Love (2024)", Episode 8
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn1.turboviplay.cc/data1/66ea6aa3c3fb3/66ea6aa3c3fb3480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="No Gain No Love" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/08/27/no-gain-no-love.jpeg?w=700&q=90" group-title="No Gain No Love (2024)", Episode 9
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn1.turboviplay.cc/data1/66f22349221b0/66f22349221b0480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="No Gain No Love" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/08/27/no-gain-no-love.jpeg?w=700&q=90" group-title="No Gain No Love (2024)", Episode 10
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn1.turboviplay.cc/data1/66f39ef39f84e/66f39ef39f84e480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="No Gain No Love" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/08/27/no-gain-no-love.jpeg?w=700&q=90" group-title="No Gain No Love (2024)", Episode 11
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn1.turboviplay.cc/data2/66fcc9c4d308e/66fcc9c4d308e.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="No Gain No Love" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/08/27/no-gain-no-love.jpeg?w=700&q=90" group-title="No Gain No Love (2024)", Episode 12 END
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn1.turboviplay.cc/data2/66fcd22281928/66fcd22281928.m3u8
+
+
+
+
+---------------------------------------------------------------------------------   DNA Lover – Season 1 ---------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 1
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-1-2024-webdl_X_3f10979c/22/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 2
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-2-2024-webdl_X_c4836ece/22/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 3
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-3-2024-webdl_X_fa872aa6/8/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 4
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-4-2024-webdl_X_126d9498/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 5
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-5-2024-webdl_X_08906a2e/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 6
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-6-2024-webdl_X_60b1f68d/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 7
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-7-2024-webdl_X_5f87c5e9/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 8
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-8-2024-webdl_X_b39937fa/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 9
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-9-2024-webdl_X_328fb97d/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 10
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-10-2024-webdl_X_2060c4ce/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 11
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-11-2024-webdl_X_8abfa7c7/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 12
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-12-2024-webdl_X_ada38256/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 13
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-13-2024-webdl_X_c5c18fb6/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 14
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-14-2024-webdl_X_4e4c25e1/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 15
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-15-2024-webdl_X_41f1dad3/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://koreanindo.net/wp-content/uploads/2024/06/dna-lover.jpeg" group-title="DNA Lover – Season 1 (2024)", Episode 16 END
+https://stream.hownetwork.xyz/xxx/dna-lover-season-1-episode-16-2024-webdl_X_3d610218/26/480.m3u8
+
+
+--------------------------------------------------------------------------------- Inul & Adam -------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Inul & Adam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUZRiFoAx6ErDbDGZ0tC4n-_8GpHCUO-Zow&s" group-title="Inul & Adam", Episode 1
+#https://mx9skjnui4es.pradoi.com/hls2/01/04836/5p79q4fu3ig9_n/index-v1-a1.m3u8?t=rGyrzLnJtBlsR-kLAzLWtQMweSdJIzlNDOhJd_Y6nkg&s=1731338221&e=129600&f=24184983&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Inul & Adam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUZRiFoAx6ErDbDGZ0tC4n-_8GpHCUO-Zow&s" group-title="Inul & Adam", Episode 2
+#https://hhpu858ynx60.pradoi.com/hls2/01/04836/fhdlq7uk816g_n/index-v1-a1.m3u8?t=gMygvaA7zvdNnek6PlBlDp0zUeXWDcMF8mbJ8TBrWYc&s=1731338434&e=129600&f=24184980&srv=refp3mq9fppl&i=0.0&sp=500&p1=refp3mq9fppl&p2=refp3mq9fppl&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Inul & Adam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUZRiFoAx6ErDbDGZ0tC4n-_8GpHCUO-Zow&s" group-title="Inul & Adam", Episode 3
+#https://g9hb6ahmf6ejy.pradoi.com/hls2/01/04836/5qv5i1nwg35s_n/index-v1-a1.m3u8?t=ULp221kJrI77FXbKbix0_hbal42ZNFeUGQ_nNNAbLlM&s=1731338532&e=129600&f=24184976&srv=g3qezmygwi76p&i=0.0&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Inul & Adam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUZRiFoAx6ErDbDGZ0tC4n-_8GpHCUO-Zow&s" group-title="Inul & Adam", Episode 4
+#https://rfognbc0mhhj.pradoi.com/hls2/01/04836/d0xqbj0qr03v_n/index-v1-a1.m3u8?t=UhKvLMIlVKRDV6ArlkxhOhyhjqo7xbIPyjLBdM9iixI&s=1731338603&e=129600&f=24184997&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Inul & Adam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUZRiFoAx6ErDbDGZ0tC4n-_8GpHCUO-Zow&s" group-title="Inul & Adam", Episode 5
+#https://cwfuommwagyrfcg6.pradoi.com/hls2/01/04836/pho0j1b5t233_n/index-v1-a1.m3u8?t=vfOC8mk0Nz42dYFoCR007P1YNnDHuiTu7Ni0FsPbFao&s=1731338633&e=129600&f=24184995&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Inul & Adam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUZRiFoAx6ErDbDGZ0tC4n-_8GpHCUO-Zow&s" group-title="Inul & Adam", Episode 6
+#https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/04836/tzye0t3w0k8p_n/index-v1-a1.m3u8?t=6o9dqcSssWTkqhsoXeRL_pvDEmPxG3RcBRzjUNMn4P0&s=1731338663&e=129600&f=24184990&srv=rj9uehaz0ybig4&i=0.0&sp=500&p1=rj9uehaz0ybig4&p2=rj9uehaz0ybig4&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Inul & Adam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUZRiFoAx6ErDbDGZ0tC4n-_8GpHCUO-Zow&s" group-title="Inul & Adam", Episode 7
+#https://n0b3rh4boigl.pradoi.com/hls2/01/04836/5mm38kov367n_n/index-v1-a1.m3u8?t=vFdhyA0FnegLDxyWwNfUWnYTiT37zXiWffQSNK0FiKc&s=1731338697&e=129600&f=24184988&srv=g3qezmygwi76p&i=0.0&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Inul & Adam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUZRiFoAx6ErDbDGZ0tC4n-_8GpHCUO-Zow&s" group-title="Inul & Adam", Episode 8
+#https://in1rhjc5cqhz.pradoi.com/hls2/01/04836/z1xogken5cbg_n/index-v1-a1.m3u8?t=bs9ic_sJ_aP3fV6PMFmdTRD8xM78kimSJ3w66O9iw-A&s=1731338725&e=129600&f=24184984&srv=xcjcmoh7mtij&i=0.0&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=63859
+
+
+--------------------------------------------------------------------------------- Agatha All Along-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Agatha All Along" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_.jpg" group-title="Agatha All Along – Season 1", Episode 1
+https://stream.hownetwork.xyz/yyy/agatha-all-along-season-1-episode-1-2024-webdl_X_e2609db9/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Agatha All Along" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_.jpg" group-title="Agatha All Along – Season 1", Episode 2
+https://stream.hownetwork.xyz/yyy/agatha-all-along-season-1-episode-2-2024-webdl_X_6e3c1caf/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Agatha All Along" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_.jpg" group-title="Agatha All Along – Season 1", Episode 3
+https://stream.hownetwork.xyz/yyy/agatha-all-along-season-1-episode-3-2024-webdl_X_a104d78b/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Agatha All Along" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_.jpg" group-title="Agatha All Along – Season 1", Episode 4
+https://stream.hownetwork.xyz/yyy/agatha-all-along-season-1-episode-4-2024-webdl_X_81e4953f/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Agatha All Along" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_.jpg" group-title="Agatha All Along – Season 1", Episode 5
+https://stream.hownetwork.xyz/yyy/agatha-all-along-season-1-episode-5-2024-webdl_X_c43184ce/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Agatha All Along" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_.jpg" group-title="Agatha All Along – Season 1", Episode 6
+https://stream.hownetwork.xyz/yyy/agatha-all-along-season-1-episode-6-2024-webdl_X_d83ce9c2/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Agatha All Along" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_.jpg" group-title="Agatha All Along – Season 1", Episode 7
+https://stream.hownetwork.xyz/yyy/agatha-all-along-season-1-episode-7-2024-webdl_X_d0e500d8/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Agatha All Along" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_.jpg" group-title="Agatha All Along – Season 1", Episode 8
+https://stream.hownetwork.xyz/yyy/agatha-all-along-season-1-episode-8-2024-webdl_X_4120e4e8/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Agatha All Along" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_.jpg" group-title="Agatha All Along – Season 1", Episode 9
+https://stream.hownetwork.xyz/yyy/agatha-all-along-season-1-episode-9-2024-webdl_X_90fc5b43/26/480.m3u8
+
+
+--------------------------------------------------------------------------------- What If…? Season 1-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="What If…?" tvg-logo="https://cdn.marvel.com/content/1x/whatif_lob_crd_01.jpg" group-title="What If…? – Season 1", Episode 1
+https://stream.hownetwork.xyz/yyy/what-if-season-1-episode-1-2021-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…?" tvg-logo="https://cdn.marvel.com/content/1x/whatif_lob_crd_01.jpg" group-title="What If…? – Season 1", Episode 2
+https://stream.hownetwork.xyz/yyy/what-if-season-1-episode-2-2021-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…?" tvg-logo="https://cdn.marvel.com/content/1x/whatif_lob_crd_01.jpg" group-title="What If…? – Season 1", Episode 3
+https://stream.hownetwork.xyz/yyy/what-if-season-1-episode-3-2021-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…?" tvg-logo="https://cdn.marvel.com/content/1x/whatif_lob_crd_01.jpg" group-title="What If…? – Season 1", Episode 4
+https://stream.hownetwork.xyz/yyy/what-if-season-1-episode-4-2021-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…?" tvg-logo="https://cdn.marvel.com/content/1x/whatif_lob_crd_01.jpg" group-title="What If…? – Season 1", Episode 5
+https://stream.hownetwork.xyz/yyy/what-if-season-1-episode-5-2021-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…?" tvg-logo="https://cdn.marvel.com/content/1x/whatif_lob_crd_01.jpg" group-title="What If…? – Season 1", Episode 6
+https://stream.hownetwork.xyz/yyy/what-if-season-1-episode-6-2021-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…?" tvg-logo="https://cdn.marvel.com/content/1x/whatif_lob_crd_01.jpg" group-title="What If…? – Season 1", Episode 7
+https://stream.hownetwork.xyz/yyy/what-if-season-1-episode-7-2021-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…?" tvg-logo="https://cdn.marvel.com/content/1x/whatif_lob_crd_01.jpg" group-title="What If…? – Season 1", Episode 8
+https://stream.hownetwork.xyz/yyy/what-if-season-1-episode-8-2021-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…?" tvg-logo="https://cdn.marvel.com/content/1x/whatif_lob_crd_01.jpg" group-title="What If…? – Season 1", Episode 9
+https://stream.hownetwork.xyz/yyy/what-if-season-1-episode-9-2021-webdl/11/480.m3u8
+
+
+--------------------------------------------------------------------------------- What If…? Season 2-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="What If…? - Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ntgPJ130odrcGQSR2xAILSTojtjIoQHmag&s" group-title="What If…? – Season 2", Episode 1
+https://stream.hownetwork.xyz/yyy/what-if-season-2-episode-1-2021-webdl_X_eb61b294/19/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…? - Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ntgPJ130odrcGQSR2xAILSTojtjIoQHmag&s" group-title="What If…? – Season 2", Episode 2
+https://stream.hownetwork.xyz/yyy/what-if-season-2-episode-2-2021-webdl_X_e07e65a2/19/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…? - Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ntgPJ130odrcGQSR2xAILSTojtjIoQHmag&s" group-title="What If…? – Season 2", Episode 3
+https://stream.hownetwork.xyz/yyy/what-if-season-2-episode-3-2021-webdl_X_9f3ea39f/19/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…? - Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ntgPJ130odrcGQSR2xAILSTojtjIoQHmag&s" group-title="What If…? – Season 2", Episode 4
+https://stream.hownetwork.xyz/yyy/what-if-season-2-episode-4-2021-webdl_X_56ce7a03/19/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…? - Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ntgPJ130odrcGQSR2xAILSTojtjIoQHmag&s" group-title="What If…? – Season 2", Episode 5
+https://stream.hownetwork.xyz/yyy/what-if-season-2-episode-5-2021-webdl_X_d4046f58/19/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…? - Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ntgPJ130odrcGQSR2xAILSTojtjIoQHmag&s" group-title="What If…? – Season 2", Episode 6
+https://stream.hownetwork.xyz/yyy/what-if-season-2-episode-6-2021-webdl_X_3570789c/19/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…? - Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ntgPJ130odrcGQSR2xAILSTojtjIoQHmag&s" group-title="What If…? – Season 2", Episode 7
+https://stream.hownetwork.xyz/yyy/what-if-season-2-episode-7-2021-webdl_X_3c219f17/19/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…? - Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ntgPJ130odrcGQSR2xAILSTojtjIoQHmag&s" group-title="What If…? – Season 2", Episode 8
+https://stream.hownetwork.xyz/yyy/what-if-season-2-episode-8-2021-webdl_X_bf3da0b9/19/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="What If…? - Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ntgPJ130odrcGQSR2xAILSTojtjIoQHmag&s" group-title="What If…? – Season 2", Episode 9
+https://stream.hownetwork.xyz/yyy/what-if-season-2-episode-9-2021-webdl_X_c9196024/19/480.m3u8
+
+
+--------------------------------------------------------------------------------- Joko Anwar's Nightmares and Daydreams-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Joko Anwar's Nightmares and Daydreams" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE3ZjM0MmQtYWNlNS00ZjRjLWIxZjYtMmE5MDQzNWI0ZTc1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Joko Anwar's Nightmares and Daydreams", Episode 1
+https://6wyav2r9i6j.pradoi.com/hls2/01/04150/ch9ii25l32n9_n/index-v1-a1.m3u8?t=Ycc0lO1qh-jCE8awDE4vWkWPFX0wdbKk6SkXVayKSi0&s=1731479463&e=129600&f=20751431&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Joko Anwar's Nightmares and Daydreams" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE3ZjM0MmQtYWNlNS00ZjRjLWIxZjYtMmE5MDQzNWI0ZTc1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Joko Anwar's Nightmares and Daydreams", Episode 2
+https://nghh2vbgdpqt.pradoi.com/hls2/01/04150/b6uflkng3xbj_n/master.m3u8?t=QugJa6U0nsXdtCAy3WJgbyuxaOkZg0rFgI6hrkMp-HM&s=1731479810&e=129600&f=20751425&srv=0wnh534rdgf989&i=0.0&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Joko Anwar's Nightmares and Daydreams" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE3ZjM0MmQtYWNlNS00ZjRjLWIxZjYtMmE5MDQzNWI0ZTc1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Joko Anwar's Nightmares and Daydreams", Episode 3
+https://ts09ruf2imyzcv.pradoi.com/hls2/01/04150/0buniejz52t5_n/master.m3u8?t=U5Z68BkwBq2nIsCBvQ1pf7F4pF36HW3yIfvs8dKRROY&s=1731479884&e=129600&f=20751417&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Joko Anwar's Nightmares and Daydreams" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE3ZjM0MmQtYWNlNS00ZjRjLWIxZjYtMmE5MDQzNWI0ZTc1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Joko Anwar's Nightmares and Daydreams", Episode 4
+https://or6vwhgdzsnp.pradoi.com/hls2/01/04150/hmf0xop5umnx_n/master.m3u8?t=rzEd87KpfkcOQRPIzrRWv6cdLyCasbGIeIZb-eWa3IE&s=1731479908&e=129600&f=20751413&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Joko Anwar's Nightmares and Daydreams" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE3ZjM0MmQtYWNlNS00ZjRjLWIxZjYtMmE5MDQzNWI0ZTc1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Joko Anwar's Nightmares and Daydreams", Episode 5
+https://r91t57ooz3mx.pradoi.com/hls2/01/04150/50i09asazqpe_n/master.m3u8?t=1h5O8Eko546bYvRGO6IEEl6EgXZDGKeEMoZs7V6L-7E&s=1731479940&e=129600&f=20751412&srv=zukkcg9r2ba2&i=0.0&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Joko Anwar's Nightmares and Daydreams" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE3ZjM0MmQtYWNlNS00ZjRjLWIxZjYtMmE5MDQzNWI0ZTc1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Joko Anwar's Nightmares and Daydreams", Episode 6
+https://u22adcjg1tm0.pradoi.com/hls2/01/04150/xazxh609cd3w_n/master.m3u8?t=oyxV5li65X6YOxvl_znh9Hl5eBbi5pBOftxIt1dmOkU&s=1731479954&e=129600&f=20751408&srv=kxbg0h85dae8&i=0.0&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Joko Anwar's Nightmares and Daydreams" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE3ZjM0MmQtYWNlNS00ZjRjLWIxZjYtMmE5MDQzNWI0ZTc1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Joko Anwar's Nightmares and Daydreams", Episode 7 END
+https://iuytvygtuo.pradoi.com/hls2/01/04150/7552e71oc0i7_n/master.m3u8?t=SD2cTHSsrhLd_ZQsBO1mwYVajxmGU_dnsTA4pgvNisM&s=1731479981&e=129600&f=20751437&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=63859
+
+
+--------------------------------------------------------------------------------- Joko Anwar's Nightmares and Daydreams-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdramafire.rest%2Fdont-come-home-2024-episode-1%2F&psig=AOvVaw2jF9kz3t_ncnyXjM0FkYaR&ust=1731566854096000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKitjK3b2IkDFQAAAAAdAAAAABAE" group-title="Don’t Come Home (2024)", Episode 1
+https://stream.hownetwork.xyz/yyy/dont-come-home-season-1-episode-1-2024-webdl_X_c8cac40d/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdramafire.rest%2Fdont-come-home-2024-episode-1%2F&psig=AOvVaw2jF9kz3t_ncnyXjM0FkYaR&ust=1731566854096000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKitjK3b2IkDFQAAAAAdAAAAABAE" group-title="Don’t Come Home (2024)", Episode 2
+https://stream.hownetwork.xyz/yyy/dont-come-home-season-1-episode-2-2024-webdl_X_1b7ac8e7/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdramafire.rest%2Fdont-come-home-2024-episode-1%2F&psig=AOvVaw2jF9kz3t_ncnyXjM0FkYaR&ust=1731566854096000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKitjK3b2IkDFQAAAAAdAAAAABAE" group-title="Don’t Come Home (2024)", Episode 3
+https://stream.hownetwork.xyz/yyy/dont-come-home-season-1-episode-3-2024-webdl_X_c8fce957/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdramafire.rest%2Fdont-come-home-2024-episode-1%2F&psig=AOvVaw2jF9kz3t_ncnyXjM0FkYaR&ust=1731566854096000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKitjK3b2IkDFQAAAAAdAAAAABAE" group-title="Don’t Come Home (2024)", Episode 4
+https://stream.hownetwork.xyz/yyy/dont-come-home-season-1-episode-4-2024-webdl_X_a7427716/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdramafire.rest%2Fdont-come-home-2024-episode-1%2F&psig=AOvVaw2jF9kz3t_ncnyXjM0FkYaR&ust=1731566854096000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKitjK3b2IkDFQAAAAAdAAAAABAE" group-title="Don’t Come Home (2024)", Episode 5
+https://stream.hownetwork.xyz/yyy/dont-come-home-season-1-episode-5-2024-webdl_X_9ca6d290/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdramafire.rest%2Fdont-come-home-2024-episode-1%2F&psig=AOvVaw2jF9kz3t_ncnyXjM0FkYaR&ust=1731566854096000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKitjK3b2IkDFQAAAAAdAAAAABAE" group-title="Don’t Come Home (2024)", Episode 6
+https://stream.hownetwork.xyz/yyy/dont-come-home-season-1-episode-6-2024-webdl_X_bb78478f/26/480.m3u8
+
+--------------------------------------------------------------------------------- Jurassic World: Chaos Theory Season 1-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UxNDNhOTAtODQzZC00NjgxLWI5NGUtNjg1MmMyODg2Mzg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Jurassic World: Chaos Theory Season 1", Episode 1
+#EXTVLCOPT:http-referrer=
+https://5q0e78nyufhb7.pradoi.com/hls2/01/04618/ge3y668igjsz_x/index-v1-a1.m3u8?t=sRL6IJ281bpniRQ5BmyBEmNpMCQv1gXkmX9s27ngMT4&s=1731482085&e=129600&f=23092851&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UxNDNhOTAtODQzZC00NjgxLWI5NGUtNjg1MmMyODg2Mzg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Jurassic World: Chaos Theory Season 1", Episode 2
+https://bvwqjyftgwwv.pradoi.com/hls2/01/04618/6b6q21sykh4a_x/index-v1-a1.m3u8?t=OAReHzttAVb7oJawZhmu-9I8LkoV9P7up8aiyb4kbcM&s=1731482173&e=129600&f=23092859&srv=44ltbh0sz473d&i=0.0&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UxNDNhOTAtODQzZC00NjgxLWI5NGUtNjg1MmMyODg2Mzg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Jurassic World: Chaos Theory Season 1", Episode 3
+https://18jij6rntf.pradoi.com/hls2/01/04618/vy6atoy9gf51_x/index-v1-a1.m3u8?t=dfLQ0-OMSpU8LWepFM7G5-HYOPMdg67C2UZx2FwXG1w&s=1731482232&e=129600&f=23092860&srv=o0iqqhz9to4p&i=0.0&sp=500&p1=o0iqqhz9to4p&p2=o0iqqhz9to4p&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UxNDNhOTAtODQzZC00NjgxLWI5NGUtNjg1MmMyODg2Mzg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Jurassic World: Chaos Theory Season 1", Episode 4
+https://lu1r85hg8m.pradoi.com/hls2/01/04618/4yv3shsqas55_x/index-v1-a1.m3u8?t=Y8jbu9cXg3kykBCw_1jg8-OS2N7TpY0hF_EMiSIOg_k&s=1731482251&e=129600&f=23092864&srv=R7khaR4Jtgqr&i=0.0&sp=500&p1=R7khaR4Jtgqr&p2=R7khaR4Jtgqr&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UxNDNhOTAtODQzZC00NjgxLWI5NGUtNjg1MmMyODg2Mzg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Jurassic World: Chaos Theory Season 1", Episode 5
+https://bvwqjyftgwwv.pradoi.com/hls2/01/04618/gosp7wlk9tzy_x/index-v1-a1.m3u8?t=cCvzX9_ZO0k2EEMBIExYAKv-FjxmyRmp3iqHoiU6eHw&s=1731482277&e=129600&f=23092871&srv=R7khaR4Jtgqr&i=0.0&sp=500&p1=R7khaR4Jtgqr&p2=R7khaR4Jtgqr&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UxNDNhOTAtODQzZC00NjgxLWI5NGUtNjg1MmMyODg2Mzg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Jurassic World: Chaos Theory Season 1", Episode 6
+https://x8oi6owwkjoewr.pradoi.com/hls2/01/04618/jf9fzart9mlt_x/index-v1-a1.m3u8?t=7zpZLgBZeao0R0zXYWIelJzU2hN6Uq8oW-_v1_zccho&s=1731482298&e=129600&f=23092876&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UxNDNhOTAtODQzZC00NjgxLWI5NGUtNjg1MmMyODg2Mzg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Jurassic World: Chaos Theory Season 1", Episode 7
+https://mx9skjnui4es.pradoi.com/hls2/01/04618/faf9elxrm30o_x/index-v1-a1.m3u8?t=A52YRUvXuyTbdOLXpWh8ooAuAX2ECKbUOg-iOnfXcm4&s=1731482322&e=129600&f=23092881&srv=m2q5ea5w42hk&i=0.0&sp=500&p1=m2q5ea5w42hk&p2=m2q5ea5w42hk&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UxNDNhOTAtODQzZC00NjgxLWI5NGUtNjg1MmMyODg2Mzg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Jurassic World: Chaos Theory Season 1", Episode 8
+https://bteuobbhmen3.pradoi.com/hls2/01/04618/1xev8zlid8h3_x/index-v1-a1.m3u8?t=p3SaJqQUXkXIlbKvWeWxFYp9BCt9fZCuqDQm8rYH1zg&s=1731482396&e=129600&f=23092886&srv=m2q5ea5w42hk&i=0.0&sp=500&p1=m2q5ea5w42hk&p2=m2q5ea5w42hk&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UxNDNhOTAtODQzZC00NjgxLWI5NGUtNjg1MmMyODg2Mzg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Jurassic World: Chaos Theory Season 1", Episode 9
+https://7f12638xuzfg.pradoi.com/hls2/01/04618/0g5417jp8w47_x/index-v1-a1.m3u8?t=PPTfAFNhwdz_Qc9Bf3iNFuGuEPl9o0SLcsn-g1ULnWE&s=1731482418&e=129600&f=23092888&srv=ma1vmsqmq&i=0.0&sp=500&p1=ma1vmsqmq&p2=ma1vmsqmq&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="Don’t Come Homes" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UxNDNhOTAtODQzZC00NjgxLWI5NGUtNjg1MmMyODg2Mzg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Jurassic World: Chaos Theory Season 1", Episode 10
+https://euf5gy66awg8.pradoi.com/hls2/01/04618/ki9etsvy7we0_x/index-v1-a1.m3u8?t=VfcFaASlSCCQug6CerDXseA6jrm1FTO8vn_QaFcSHnU&s=1731482440&e=129600&f=23092893&srv=m2q5ea5w42hk&i=0.0&sp=500&p1=m2q5ea5w42hk&p2=m2q5ea5w42hk&asn=63859
+
+
+
+--------------------------------------------------------------------------------- Gadis kretek----------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Gadis kretek" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/2YwpfB6YbDYoHUUVdj8fRh/be36cf98039b90825ae24f6281937296/ID_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg?w=1200" group-title="Gadis kretek", Episode 1
+https://www.nonton168.com/movies/desember2022/DSI.Cigarette.Girl.S1.Ep.01.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Gadis kretek" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/2YwpfB6YbDYoHUUVdj8fRh/be36cf98039b90825ae24f6281937296/ID_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg?w=1200" group-title="Gadis kretek", Episode 2
+https://www.nonton168.com/movies/desember2022/DSI.Cigarette.Girl.S1.Ep.02.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Gadis kretek" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/2YwpfB6YbDYoHUUVdj8fRh/be36cf98039b90825ae24f6281937296/ID_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg?w=1200" group-title="Gadis kretek", Episode 3
+https://www.nonton168.com/movies/desember2022/DSI.Cigarette.Girl.S1.Ep.03.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Gadis kretek" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/2YwpfB6YbDYoHUUVdj8fRh/be36cf98039b90825ae24f6281937296/ID_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg?w=1200" group-title="Gadis kretek", Episode 4
+https://www.nonton168.com/movies/desember2022/DSI.Cigarette.Girl.S1.Ep.04.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Gadis kretek" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/2YwpfB6YbDYoHUUVdj8fRh/be36cf98039b90825ae24f6281937296/ID_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg?w=1200" group-title="Gadis kretek", Episode 5
+https://www.nonton168.com/movies/desember2022/DSI.Cigarette.Girl.S1.Ep.05.END.mp4
+
+
+
+---------------------------------------------------------------------------------  Shogun – Season 1 --------------------------------------------------------------------------------- 
+#EXTINF:-1 tvg-id="" tvg-name="Shogun – Season 1" tvg-logo="https://static.seriesreminder.com/tvdb/sr_seasons/shogun-2021/662ddff4f21ed.jpg" group-title="Shogun – Season 1", Episode 1
+https://stream.hownetwork.xyz/xxx/shogun-season-1-episode-1-2024-webdl_X_871250bb/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Shogun – Season 1" tvg-logo="https://static.seriesreminder.com/tvdb/sr_seasons/shogun-2021/662ddff4f21ed.jpg" group-title="Shogun – Season 1", Episode 2
+https://stream.hownetwork.xyz/xxx/shogun-season-1-episode-2-2024-webdl_X_b2296045/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Shogun – Season 1" tvg-logo="https://static.seriesreminder.com/tvdb/sr_seasons/shogun-2021/662ddff4f21ed.jpg" group-title="Shogun – Season 1", Episode 3
+https://stream.hownetwork.xyz/xxx/shogun-season-1-episode-3-2024-webdl_X_6b455cc6/1000/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Shogun – Season 1" tvg-logo="https://static.seriesreminder.com/tvdb/sr_seasons/shogun-2021/662ddff4f21ed.jpg" group-title="Shogun – Season 1", Episode 4
+https://stream.hownetwork.xyz/xxx/shogun-season-1-episode-4-2024-webdl_X_bd51a514/1000/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Shogun – Season 1" tvg-logo="https://static.seriesreminder.com/tvdb/sr_seasons/shogun-2021/662ddff4f21ed.jpg" group-title="Shogun – Season 1", Episode 5
+https://stream.hownetwork.xyz/xxx/shogun-season-1-episode-5-2024-webdl_X_7e71b07e/1000/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Shogun – Season 1" tvg-logo="https://static.seriesreminder.com/tvdb/sr_seasons/shogun-2021/662ddff4f21ed.jpg" group-title="Shogun – Season 1", Episode 6
+https://stream.hownetwork.xyz/xxx/shogun-season-1-episode-6-2024-webdl_X_353da149/1000/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Shogun – Season 1" tvg-logo="https://static.seriesreminder.com/tvdb/sr_seasons/shogun-2021/662ddff4f21ed.jpg" group-title="Shogun – Season 1", Episode 7
+https://stream.hownetwork.xyz/xxx/shogun-season-1-episode-7-2024-webdl_X_9d9617d5/21/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Shogun – Season 1" tvg-logo="https://static.seriesreminder.com/tvdb/sr_seasons/shogun-2021/662ddff4f21ed.jpg" group-title="Shogun – Season 1", Episode 8
+https://stream.hownetwork.xyz/xxx/shogun-season-1-episode-8-2024-webdl_X_ccef9be9/21/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Shogun – Season 1" tvg-logo="https://static.seriesreminder.com/tvdb/sr_seasons/shogun-2021/662ddff4f21ed.jpg" group-title="Shogun – Season 1", Episode 9
+https://stream.hownetwork.xyz/xxx/shogun-season-1-episode-9-2024-webdl_X_ab0ec56e/21/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Shogun – Season 1" tvg-logo="https://static.seriesreminder.com/tvdb/sr_seasons/shogun-2021/662ddff4f21ed.jpg" group-title="Shogun – Season 1", Episode 10
+https://stream.hownetwork.xyz/xxx/shogun-season-1-episode-10-2024-webdl_X_1f5f344a/21/480.m3u8
+
+
+
+---------------------------------------------------------------------------------   Avatar: The Last Airbender – Season 1 ---------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Last Airbender – Season 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ1YTZmMjItZmZkMC00MGVmLTk1OTUtNzQzZTJjZGM1NjVlXkEyXkFqcGc@._V1_.jpg" group-title="Avatar: The Last Airbender – Season 1", Episode 1
+https://stream.hownetwork.xyz/xxx/avatar-the-last-airbender-season-1-episode-1-2024-webdl_X_8f2ba22d/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Last Airbender – Season 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ1YTZmMjItZmZkMC00MGVmLTk1OTUtNzQzZTJjZGM1NjVlXkEyXkFqcGc@._V1_.jpg" group-title="Avatar: The Last Airbender – Season 1", Episode 2
+#EXTVLCOPT:http-referrer=https://emturbovid.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://cdn83.brnowy.com/data/E/64/37ZNuCWRRmXSZcgw96624d8bam7rZPjeZUh/37ZNuCWRRmXSZcgw96624d8bam7rZPjeZUh720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Last Airbender – Season 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ1YTZmMjItZmZkMC00MGVmLTk1OTUtNzQzZTJjZGM1NjVlXkEyXkFqcGc@._V1_.jpg" group-title="Avatar: The Last Airbender – Season 1", Episode 3
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://cdn1.turboviplay.com/data2/3XzUVgXKvQuHRC0sKF3W/3XzUVgXKvQuHRC0sKF3W.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Last Airbender – Season 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ1YTZmMjItZmZkMC00MGVmLTk1OTUtNzQzZTJjZGM1NjVlXkEyXkFqcGc@._V1_.jpg" group-title="Avatar: The Last Airbender – Season 1", Episode 4
+https://stream.hownetwork.xyz/xxx/avatar-the-last-airbender-season-1-episode-4-2024-webdl_X_758d5667/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Last Airbender – Season 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ1YTZmMjItZmZkMC00MGVmLTk1OTUtNzQzZTJjZGM1NjVlXkEyXkFqcGc@._V1_.jpg" group-title="Avatar: The Last Airbender – Season 1", Episode 5
+https://stream.hownetwork.xyz/xxx/avatar-the-last-airbender-season-1-episode-5-2024-webdl_X_fc4ae19d/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Last Airbender – Season 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ1YTZmMjItZmZkMC00MGVmLTk1OTUtNzQzZTJjZGM1NjVlXkEyXkFqcGc@._V1_.jpg" group-title="Avatar: The Last Airbender – Season 1", Episode 6
+https://stream.hownetwork.xyz/xxx/avatar-the-last-airbender-season-1-episode-6-2024-webdl_X_7427608a/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Last Airbender – Season 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ1YTZmMjItZmZkMC00MGVmLTk1OTUtNzQzZTJjZGM1NjVlXkEyXkFqcGc@._V1_.jpg" group-title="Avatar: The Last Airbender – Season 1", Episode 7
+https://stream.hownetwork.xyz/xxx/avatar-the-last-airbender-season-1-episode-7-2024-webdl_X_f706dc54/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Last Airbender – Season 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ1YTZmMjItZmZkMC00MGVmLTk1OTUtNzQzZTJjZGM1NjVlXkEyXkFqcGc@._V1_.jpg" group-title="Avatar: The Last Airbender – Season 1", Episode 8
+https://stream.hownetwork.xyz/xxx/avatar-the-last-airbender-season-1-episode-8-2024-webdl_X_41070e8d/20/480.m3u8
+
+---------------------------------------------------------------------------------   Love Next Door  – Season 1 ---------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 1
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-1-2024-webdl_X_04213454/22/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 2
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-2-2024-webdl_X_f4b1a178/22/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 3
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-3-2024-webdl_X_049034d6/8/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 4
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-4-2024-webdl_X_c031c6c5/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 5
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-5-2024-webdl_X_148ed2fb/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 6
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-6-2024-webdl_X_979215ed/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 7
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-7-2024-webdl_X_aa0e2c9e/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 8
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-8-2024-webdl_X_057424b8/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 9
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-9-2024-webdl_X_75d18cae/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 10
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-10-2024-webdl_X_b66ff1d3/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 11
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-11-2024-webdl_X_08197929/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 12
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-12-2024-webdl_X_576cf142/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 13
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-13-2024-webdl_X_0f3e031e/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 14
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-14-2024-webdl_X_4d2631e3/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 15
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-15-2024-webdl_X_9a57d19c/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Next Door " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGREnu-RkRzsZTz1e9R4R8tBjGCCl-jwEA&s" group-title="Love Next Door (2024)", Episode 16 END
+https://stream.hownetwork.xyz/xxx/love-next-door-season-1-episode-16-2024-webdl_X_fcee4806/26/480.m3u8
+
+
+---------------------------------------------------------------------------------   My Lovely Liar ---------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 1
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-1-2023-webdl/7/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 2
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-2-2023-webdl/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 3
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-3-2023-webdl/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 4
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-4-2023-webdl/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 5
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-5-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 6
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-6-2023-webdl/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 7
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-7-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 8
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-8-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 9
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-9-2023-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 10
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-10-2023-webdl/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 11
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-11-2023-webdl/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 12
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-12-2023-webdl/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 13
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-13-2023-hdtv/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 14
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-14-2023-hdtv/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 15
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-15-2023-webdl/4/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Lovely Liar" tvg-logo="https://o-cdn-cas.oramiland.com/parenting/images/My_Lovely_Liar.width-800.format-webp.webp" group-title="My Lovely Liar – Season 1", Episode 16
+https://stream.hownetwork.xyz/xxx/my-lovely-liar-season-1-episode-16-2023-hdtv/4/480.m3u8
+
+
+---------------------------------------------------------------------------------   Paylater ---------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Poster_Pay_Later_%282024%29.jpg" group-title="Pay Later", Episode 1
+#EXTVLCOPT:http-referrer=https://nikaplayerr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://jdou5wo6ffta.acek-cdn.com/hls2/01/02273/5dma1zkt4k6q_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Gr24Zf0TRpwywztab6trHxA3guVtjVTwbpKnysyg888&s=1733798945&e=129600&f=11366676&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Poster_Pay_Later_%282024%29.jpg" group-title="Pay Later", Episode 2
+#EXTVLCOPT:http-referrer=https://nikaplayerr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://dd2stliwt0bc.acek-cdn.com/hls2/01/01516/y070r7umtdwz_,l,n,.urlset/index-f2-v1-a1.m3u8?t=9QZG0w-sMDu1Qp7KKnwbMHoGNjqqvDnchhSKFo_s9-8&s=1733799245&e=129600&f=11366677&srv=lrAomU956ig7J&i=0.4&sp=500&p1=lrAomU956ig7J&p2=lrAomU956ig7J&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Poster_Pay_Later_%282024%29.jpg" group-title="Pay Later", Episode 3
+#EXTVLCOPT:http-referrer=https://nikaplayerr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://vpk1g9itdgtk.acek-cdn.com/hls2/01/01506/ippip4dsx9tn_n/index-v1-a1.m3u8?t=U_nLjMElxJCY0jBYqAeayp1HuhhfQ2o63gPTu7boF6k&s=1733799329&e=129600&f=11366679&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Poster_Pay_Later_%282024%29.jpg" group-title="Pay Later", Episode 4
+#EXTVLCOPT:http-referrer=https://nikaplayerr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://ffod3wobdqnr.milocdn.com/hls2/01/01506/6qglkyrscklh_n/index-v1-a1.m3u8?t=muwswM69kq1VKiWHE2rymnPHdF6qWX360papYDnPO_I&s=1733799361&e=129600&f=11366673&srv=Qx9xrn01ypu0F&i=0.4&sp=500&p1=Qx9xrn01ypu0F&p2=Qx9xrn01ypu0F&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Poster_Pay_Later_%282024%29.jpg" group-title="Pay Later", Episode 5
+#EXTVLCOPT:http-referrer=https://nikaplayerr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://kf9jy6xerfsy.milocdn.com/hls2/01/01536/7pbxhjllnuor_h/index-v1-a1.m3u8?t=_iT7cEi9M_gR-U8dq_hvN40JoAaa6csQEIc3tM17pps&s=1733799465&e=129600&f=11366670&srv=mKcH8PpcXuDaj&i=0.4&sp=500&p1=mKcH8PpcXuDaj&p2=mKcH8PpcXuDaj&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Poster_Pay_Later_%282024%29.jpg" group-title="Pay Later", Episode 6
+#EXTVLCOPT:http-referrer=https://nikaplayerr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://as9p3ktgpeiv.milocdn.com/hls2/01/01536/nvj96zca8phe_h/index-v1-a1.m3u8?t=78YFLXlldr1Q8E_PFKGJCKtsK__E8XOZPZu4ZP2O4y4&s=1733799511&e=129600&f=11366678&srv=ABuQf4MmfxIN&i=0.4&sp=500&p1=ABuQf4MmfxIN&p2=ABuQf4MmfxIN&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Poster_Pay_Later_%282024%29.jpg" group-title="Pay Later", Episode 7
+#EXTVLCOPT:http-referrer=https://nikaplayerr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://m5qqjwpatpzb.acek-cdn.com/hls2/01/02273/4n4qcbm793pb_,l,n,.urlset/index-f2-v1-a1.m3u8?t=gZfV_3sE8JP-jO9wD9DCbDCAWXb6n0k9fko_nfSdyuc&s=1733799596&e=129600&f=11366675&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=63859
+
+#EXTINF:-1 tvg-id="" tvg-name="DNA Lover" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Poster_Pay_Later_%282024%29.jpg" group-title="Pay Later", Episode 8
+#EXTVLCOPT:http-referrer=https://nikaplayerr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://pmcd2tpprgct.milocdn.com/hls2/01/01562/g61zlt2jtvw7_h/index-v1-a1.m3u8?t=xDlvwxMMsyoKVZXLEpB0M7Pz3dzXRsi57_Pv2QKWHgs&s=1733799624&e=129600&f=11366664&srv=JVW37qsJlOto&i=0.4&sp=500&p1=JVW37qsJlOto&p2=JVW37qsJlOto&asn=63859
+
+
+----------------------------------------------------------------------------   Café Minamdang – Season 1 --------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 1
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-1-2022-webdl/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 2
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-2-2022-webdl/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 3
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-3-2022-webdl/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 4
+#EXTVLCOPT:http-referrer=https://0cbcq8mu.com/
+#EXTVLCOPT:http-user-agent=MMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://be6721.rcr72.waw04.cdn255.com/hls2/02/02718/3kkrrvwbzf7l_,n,x,.urlset/master.m3u8?t=NfftsOQIkmLDSUDvMCsS5hMmFlrLZlYTVAIhBlVJbUo&s=1735201793&e=10800&f=13592891&srv=30&asn=63859&sp=5500&p=
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 5
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-5-2022-webdl/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 6
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-6-2022-hdtv/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 7
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-7-2022-hdtv/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 8
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-8-2022-webdl/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 9
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-9-2022-hdtv/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 10
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-10-2022-webdl/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 11
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-11-2022-webrip/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 12
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-12-2022-webrip/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 13
+https://cdn1.turboviplay.cc/data2/k1KQmlHzgEPP7N0wUpdz/k1KQmlHzgEPP7N0wUpdz.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 14
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-14-2022-webdl/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 15
+https://cdn1.turboviplay.cc/data2/TXgW5XmJ5CbFmQOfBkpV/TXgW5XmJ5CbFmQOfBkpV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 16
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-16-2022-webdl/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 17
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-17-2022-webrip/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Café Minamdang" tvg-logo="https://images.justwatch.com/poster/293930807/s718/season-1.jpg" group-title="Café Minamdang – Season 1", Episode 18
+https://stream.hownetwork.xyz/yyy/cafe-minamdang-season-1-episode-18-2022-webdl/12/480.m3u8
+
+
+----------------------------------------------------------------------------  The Lord of the Rings: The Rings of Power ‐ Season 1 --------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 1" tvg-logo="https://images.justwatch.com/poster/300920866/s718/season-1.jpg" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 1", Episode 1
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-1-2022-webdl/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 1" tvg-logo="https://images.justwatch.com/poster/300920866/s718/season-1.jpg" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 1", Episode 2
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-2-2022-webdl/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 1" tvg-logo="https://images.justwatch.com/poster/300920866/s718/season-1.jpg" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 1", Episode 3
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-3-2022-webrip/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 1" tvg-logo="https://images.justwatch.com/poster/300920866/s718/season-1.jpg" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 1", Episode 4
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-4-2022-webrip/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 1" tvg-logo="https://images.justwatch.com/poster/300920866/s718/season-1.jpg" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 1", Episode 5
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-5-2022-webrip/12/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 1" tvg-logo="https://images.justwatch.com/poster/300920866/s718/season-1.jpg" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 1", Episode 6
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-6-2022-webrip_X_f9a11f79/19/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 1" tvg-logo="https://images.justwatch.com/poster/300920866/s718/season-1.jpg" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 1", Episode 7
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-7-2022-webdl_X_ac149b13/19/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 1" tvg-logo="https://images.justwatch.com/poster/300920866/s718/season-1.jpg" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 1", Episode 8
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-8-2022-webdl_X_160b2276/19/480.m3u8
+
+
+----------------------------------------------------------------------------  The Lord of the Rings: The Rings of Power ‐ Season 2 --------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVpioEn4SDCVV9bzIUq7P4QcS8ehw85VXzBA&s" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 2", Episode 1
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-2-episode-1-2022-webdl_X_5ae791e2/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVpioEn4SDCVV9bzIUq7P4QcS8ehw85VXzBA&s" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 2", Episode 2
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-2-episode-2-2022-webdl_X_32e07c51/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVpioEn4SDCVV9bzIUq7P4QcS8ehw85VXzBA&s" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 2", Episode 3
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-2-episode-3-2022-webdl_X_4976bc72/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVpioEn4SDCVV9bzIUq7P4QcS8ehw85VXzBA&s" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 2", Episode 4
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-2-episode-4-2022-webdl_X_36a3d73e/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVpioEn4SDCVV9bzIUq7P4QcS8ehw85VXzBA&s" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 2", Episode 5
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-2-episode-5-2022-hdtv_X_e7e17cd4/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVpioEn4SDCVV9bzIUq7P4QcS8ehw85VXzBA&s" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 2", Episode 6
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-2-episode-6-2022-webdl_X_6dcf4db4/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVpioEn4SDCVV9bzIUq7P4QcS8ehw85VXzBA&s" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 2", Episode 7
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-2-episode-7-2022-webdl_X_db1c0a9b/26/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Rings of Power ‐ Season 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVpioEn4SDCVV9bzIUq7P4QcS8ehw85VXzBA&s" group-title=" The Lord of the Rings: The Rings of Power (2022) ‐ Season 2", Episode 8
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-2-episode-8-2022-webdl_X_dfdf77e2/26/480.m3u8
